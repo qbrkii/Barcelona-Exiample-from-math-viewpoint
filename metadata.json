@@ -1,0 +1,6 @@
+{
+  "name": "The Octagon in the Grid: Geometry of Barcelona's Eixample",
+  "description": "An interactive mathematical storytelling project investigating Ildefons Cerdà's 1859 chamfered octagonal city blocks in Barcelona — exploring area deductions, solar trigonometry, dihedral symmetry, and parametric urban design.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
